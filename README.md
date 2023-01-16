@@ -4,9 +4,9 @@
 
 
 # Kontroller
-##A/D Hareket tuşları
+## A/D Hareket tuşları
 
-## Projede Benim geliştirdiğim kısımlar sepetin tüm animasyonları. İnternetten bulmak yerine photoshop ile birkaç farklı şekilde png oluşturdum. Bomba ve meyvelerin düşmesi ve düşme hızı ve ekrandan çıktığında silinip tekrardan oluşması. Can, puan ve en yüksek puanı tutması için script,bunları ekranda basit bir scoreboard şekilde tutulması.
+## Projede Benim geliştirdiğim kısımlar sepet animasyonları. İnternetten bulmak yerine photoshop ile birkaç farklı şekilde png oluşturdum. Bomba ve meyvelerin düşmesi ve düşme hızı. Ekrandan çıktığında silinip tekrardan oluşması. Can, puan ve en yüksek puanı tutması için script,bunları ekranda gösterme.
 
 ## Projede takım arkadaşımın geliştirdiği kısımlar ise ana ve pause menu tasarım ve kodlanması, asenkron sahne geçişleri için skipt. Kayıt alma ve arkaplan müziği eklenmesi.
 
